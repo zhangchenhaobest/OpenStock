@@ -1,3 +1,29 @@
+# OpenStock
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+昂贵行情平台的开源替代品，可跟踪实时价格、设置提醒与查看公司详情。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 
 
 <p align="center"><sub><a href="#sponsors">SPONSORED BY</a></sub></p>
